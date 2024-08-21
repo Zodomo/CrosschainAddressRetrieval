@@ -56,6 +56,8 @@ export default function Home() {
     { name: 'Litecoin', value: 'litecoin' },
     { name: 'Ripple', value: 'ripple' },
     { name: 'Cosmos', value: 'cosmos' },
+    { name: 'TON', value: 'ton' },
+    { name: 'Arweave', value: 'arweave' },
   ];
 
   const fileInputRef = useRef<HTMLInputElement>(null);
